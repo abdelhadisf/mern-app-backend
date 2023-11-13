@@ -3,6 +3,8 @@ const mongoose = require('mongoose')
 const express = require('express') 
 const workoutRoutes = require('./routes/workoutRoute')
 const userRoute = require('./routes/userRoute')
+// start express appsasas
+
 const app = express()
 
 
